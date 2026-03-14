@@ -1,8 +1,5 @@
 <div align="center">
-  <a href="https://github.com/otvetnet/backend-v2">
-    <img src="https://avatars.githubusercontent.com/u/266517121?s=200&v=4" alt="Logo" width="96">
-  </a>
-
+  <img src="https://avatars.githubusercontent.com/u/266517121?s=200&v=4" alt="Logo" width="96">
   <h3 align="center">Front Language</h3>
 
   <p align="center">
